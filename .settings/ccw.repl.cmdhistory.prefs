@@ -1,0 +1,2 @@
+cmdhistory=["answer" "(def hello (fn [who] (str \\"Hello, \\" who \\"\!\\")))" "(tally-item fruit-prices [\:persimmon 2])"]
+eclipse.preferences.version=1
